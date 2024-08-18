@@ -34,12 +34,12 @@
   }
   
   .detail-card {
-    border-right: 2px solid #dee2e6; /* Add a border on the right side of the card body */
+    border-right: 2px solid #dee2e6;
 }
 
 @media (max-width: 576px) {
     .detail-card {
-        border-right: none; /* Remove the border on smaller screens */
+        border-right: none;
     }
 }
 
